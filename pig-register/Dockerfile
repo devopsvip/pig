@@ -1,4 +1,4 @@
-FROM alibabadragonwell/dragonwell:21-anolis
+FROM ccr.ccs.tencentyun.com/devopsvip/dragonwell:21-anolis
 
 WORKDIR /pig-register
 
